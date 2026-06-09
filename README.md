@@ -18,4 +18,4 @@ I turn messy data into decisions — and into AI tools that act on them. I like 
 
 ### 📜 Background
 
-A not-so-straight path into data: supply chain & process optimization → project management & consulting → analytics. Certified via **Google · IBM · Tableau · Ironhack**.
+Years in **supply chain, process optimization, project management & consulting** — now focused on data & AI. Certified via **Google · IBM · Tableau · Ironhack**.
