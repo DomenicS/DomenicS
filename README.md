@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Domenic 👋</h1>
-<p align="center"><b>Data Analyst &amp; AI Enthusiast · Berlin area</b></p>
+<p align="center"><b>Data Analytic Engineer &amp; AI Enthusiast · Berlin area</b></p>
 
 <p align="center">
   🌐 <a href="https://domenicsawatzki.com">domenicsawatzki.com</a> ·
