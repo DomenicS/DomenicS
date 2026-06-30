@@ -13,7 +13,7 @@ I turn messy data into decisions — and into AI tools that act on them. I like 
 
 ### 🧰 What I work with
 
-**Cloud & AI** — Claude · OpenAI · AI Agents · Prompt Engineering · Google Cloud · AWS
+**Cloud & AI** — Claude · OpenAI · AI Agents · Hermes · Prompt Engineering · Google Cloud · AWS
 **Data & Analytics** — Python · SQL · PostgreSQL · BigQuery · Looker · Tableau · pandas · Polars
 
 ### 📜 Background
